@@ -1,0 +1,9 @@
+E:\Projects\MarsRover\MarsRover.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MarsRover\MarsRover.Core\bin\Debug\MarsRover.Core.dll
+E:\Projects\MarsRover\MarsRover.Core\bin\Debug\MarsRover.Core.pdb
+E:\Projects\MarsRover\MarsRover.Core\obj\Debug\MarsRover.Core.dll
+E:\Projects\MarsRover\MarsRover.Core\obj\Debug\MarsRover.Core.pdb
+E:\Projects\MarsRover\MarsRover.Core\bin\Debug\MarsRover.Interfaces.dll
+E:\Projects\MarsRover\MarsRover.Core\bin\Debug\MarsRover.Objects.dll
+E:\Projects\MarsRover\MarsRover.Core\bin\Debug\MarsRover.Objects.pdb
+E:\Projects\MarsRover\MarsRover.Core\bin\Debug\MarsRover.Interfaces.pdb

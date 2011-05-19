@@ -1,0 +1,16 @@
+E:\Projects\MarsRover\MarsRover.Tests\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MarsRover\MarsRover.Tests\bin\Debug\MarsRover.Tests.dll
+E:\Projects\MarsRover\MarsRover.Tests\bin\Debug\MarsRover.Tests.pdb
+E:\Projects\MarsRover\MarsRover.Tests\bin\Debug\nunit.framework.dll
+E:\Projects\MarsRover\MarsRover.Tests\bin\Debug\Rhino.Mocks.dll
+E:\Projects\MarsRover\MarsRover.Tests\bin\Debug\nunit.framework.xml
+E:\Projects\MarsRover\MarsRover.Tests\obj\Debug\MarsRover.Tests.dll
+E:\Projects\MarsRover\MarsRover.Tests\obj\Debug\MarsRover.Tests.pdb
+E:\Projects\MarsRover\MarsRover.Tests\bin\Debug\MarsRover.Core.dll
+E:\Projects\MarsRover\MarsRover.Tests\bin\Debug\MarsRover.Interfaces.dll
+E:\Projects\MarsRover\MarsRover.Tests\bin\Debug\MarsRover.Objects.dll
+E:\Projects\MarsRover\MarsRover.Tests\bin\Debug\MarsRover.UI.exe
+E:\Projects\MarsRover\MarsRover.Tests\bin\Debug\MarsRover.Objects.pdb
+E:\Projects\MarsRover\MarsRover.Tests\bin\Debug\MarsRover.Interfaces.pdb
+E:\Projects\MarsRover\MarsRover.Tests\bin\Debug\MarsRover.Core.pdb
+E:\Projects\MarsRover\MarsRover.Tests\bin\Debug\MarsRover.UI.pdb
