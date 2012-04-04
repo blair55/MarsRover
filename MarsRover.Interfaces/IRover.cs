@@ -17,7 +17,7 @@ namespace MarsRover.Interfaces
         int X { get; set; }
         int Y { get; set; }
         CardinalType Cardinal { get; set; }
-        IInstruction<IRover> Instruction { get; set; }
+        IInstruction Instruction { get; set; }
         string GetPositionOutput();
         bool Equals(IRover rover);
         event RoverMoveEventHandler OnRoverMoved;
